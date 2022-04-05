@@ -1,14 +1,6 @@
 # PX-is-here.github.io
-PEI-XUAN LU's personal W.E.B.S.I.T.E
 
-**W**orldwide
-**E**lectronically
-**B**ased
-**S**erialization of
-**I**nformation
-**T**hrough your
-**E**yes
-
+PEI-XUAN LU's personal website
 
 ## About This Website
 
