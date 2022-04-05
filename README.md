@@ -12,7 +12,7 @@ PEI-XUAN LU's personal W.E.B.S.I.T.E
 
 ## About This Website
 
-- Started posting all my notes on Notion in 2019 after getting note-taking jobs for most notes are either handwritten with a tablet, or typed in OneNote. 
+- Started posting all my notes on Notion in 2018 / on my website in 2022 after getting note-taking jobs for most notes are either handwritten with a tablet, or typed in OneNote. 
 
 
 
